@@ -28,5 +28,5 @@ if STRING:
         app.stop()
 
 else:
-    bot.run()
+    bot.run(port = 8080)
 
